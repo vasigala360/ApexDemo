@@ -126,4 +126,9 @@ public with sharing class KudoChatterPoster {
 	private static void mymethod(){
 		
 	}
+	
+	// feature-002 addon
+	private static void mymethod2(){
+		
+	}
 }
